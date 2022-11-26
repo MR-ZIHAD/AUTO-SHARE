@@ -1,1 +1,14 @@
-# AUTO-SHARE
+# AUTO-SHARE FOR FACEBOOK
+
+## 👇COMMAND👇
+
+git clone https://github.com/MR-ZIHAD/AUTO-SHARE
+
+
+cd AUTO-SHARE
+
+
+python SHARE.py
+
+
+PASSWORD : [PAID TOOLS SO NEED PARMISION]
