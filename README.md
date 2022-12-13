@@ -7,6 +7,8 @@
 
 ## 👇COMMAND👇
 
+rm -rf AUTO-SHARE
+
 git clone https://github.com/MR-ZIHAD/AUTO-SHARE
 
 
